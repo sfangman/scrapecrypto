@@ -1,3 +1,3 @@
 import scrape_crypto as sc
 
-sc.scrape()
+sc.scrape(300)
